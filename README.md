@@ -1,14 +1,14 @@
-# Hello, I'm Jacob!
+# Hello, I'm Jacob
 <a href="https://linkedin.com/in/jakefigueroa"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am the recent recipient of multiple cyber security certifications after being a fraud analyst in the banking industry for over 10 years. This has awakened a profound interest in information security and a dedication to solving complex problems.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I'm seeking an entry into the Cyber Security industry to contribute to my team's security goal, my organization's vision of growth and my own personal dream of career satisfaction through overcoming challenges and delivering results. I am committed to upholding a proactive security mindset with an intense passion for cybersecurity which drives my goal of mitigating cyber threats.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
